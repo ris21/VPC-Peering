@@ -13,7 +13,7 @@ This project demonstrates how to establish communication between EC2 instances l
 - Security group configurations
   
 ## Project Steps
-### 1. Two VPCs were crea ted:
+### 1. Two VPCs were created:
 -	VPC-A: Configured with the IPv4 CIDR block 10.0.0.0/16 and named VPC-A. Default settings were used, and a tag Key=Name, Value=VPC-A was added.
 -	VPC-B: Configured with the IPv4 CIDR block 20.0.0.0/16 and named VPC-B. Default settings were used, and a tag Key=Name, Value=VPC-B was added.
 ### 2. Two subnets were created:
